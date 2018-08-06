@@ -1,0 +1,67 @@
+{
+    "spacing": {
+        "button_height_1": 40,
+        "button_width_1": 60,
+        "x_tiny": 10,
+        "tiny": 15,
+        "small": 20,
+        "medium": 30,
+        "large": 40,
+        "xl": 60,
+        "xxl": 90,
+        "120": 120,
+        "border_thin": 1,
+
+
+        "space_default": 16,
+        "space_xxs": 4,
+        "space_xs": 8,
+        "space_s": 12,
+        "space_m": 16,
+        "space_l": 24,
+        "space_xl": 32,
+        "space_xxl": 64
+    },
+    "fontFamily": "Gotham-Book, Roboto, sans-serif",
+    "text": {
+        "lineHeight": "1.5em",
+        "textColor": "#000000CC"
+    },
+    "palette": {
+        "borderColor":"#00000011",
+        "iconColor": "#000000cc",
+        "main_gold_light": "#E6D8C4",
+        "main_gold_medium": "#C1B497",
+        "main_gold_dark": "#ADA082",
+        "light_grey": "#e0e0e0",
+        "text_black": "#333",
+        "main_gold_light": "#E6D8C4",
+        "main_gold_medium": "#C1B497",
+        "main_gold_dark": "#ADA082",
+        "light_grey": "#e0e0e0",
+        "text_black": "#333",
+
+        "Gold_Lighten_10": "#C2A974",
+        "Gold_Base": "#B39350",
+        "Gold_Darken_5": "#A38547",
+        "Gold_Darken_15": "#7F6837",
+        "Gold_Darken_25": "#5C4B28",
+
+        "Charcoal_Lighten_20": "#4D4D4D",
+        "Charcoal_Lighten_10": "#333333",
+        "Charcoal_Base": "#1A1A1A",
+        "Charcoal_Darken_10": "#000000",
+
+        "Beige_Lighten_5": "#F8F6F0",
+        "Beige_Base": "#F1EBDE",
+        "Beige_Darken_5": "#E9E0CC",
+        "Beige_Darken_15": "#DACAA8",
+
+        "silver_Base": "#F2F2F2",
+        "silver_Darken_5": "#E5E5E5",
+        "silver_Darken_15": "#CCCCCC",
+        "silver_Darken_25": "#B2B2B2"
+    },
+    "themeName": "LightTheme",
+    "themeFile": "lightTheme.json"
+}
