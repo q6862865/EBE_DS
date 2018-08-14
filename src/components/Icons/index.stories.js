@@ -123,6 +123,7 @@ storiesOf('✔ Icons', module)
             <Icon className="iconTest" icon="Wishlist"> Wishlist </Icon>
             <Icon className="iconTest" icon="Zoom_in"> Zoom_in </Icon>
             <Icon className="iconTest" icon="Zoom_out"> Zoom_out </Icon>
+            <Icon className="iconTest" icon="Medal"> Medal </Icon>
         </Box>
     )))
     .add('All icons map', withInfo('with text')(() => (
